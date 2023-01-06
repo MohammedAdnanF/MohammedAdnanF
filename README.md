@@ -1,5 +1,15 @@
-### Hi there 👋
+## Hi there 👋, I'm Muhammad Alfarra.
+I'm an experienced front-end developer with extensive knowledge of web interface designs gathered over 3 years.
 
+### Technical Skills:
+- Front-End Coding (HTML, CSS).
+- Responsive Design.
+- JavaScript
+- JQuery
+- TypeScript
+- Angular.
+- Firebase and API's.
+- Git and Github.
 <!--
 **MohammedAdnanF/MohammedAdnanF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
