@@ -12,8 +12,6 @@ My expertise lies in front-end web development, where I specialize in creating b
 ⭐ Git/Github.<br>
 ⭐ Responsive design using Bootstrap and MediaQueries.<br>
 
-<i class="far fa-twitter"></i>
-
 <!--
 **MohammedAdnanF/MohammedAdnanF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
